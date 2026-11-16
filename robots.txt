@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://covelora.afsanora.com/sitemap.xml
